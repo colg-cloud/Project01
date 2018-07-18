@@ -1,6 +1,5 @@
 package cn.colg.bean;
 
-
 /**
  * 测试
  *
